@@ -18,8 +18,10 @@ In addition, please include the following information along with your report if 
 ## Urgent contact
 
 For any urgent contact, beside sending us email, please don't hesistate to contact our team administrators on Discord at: 
-- eledra_89
-- Kien#6166
+- @tekken_kensei
+- @deuskensei
+- @eledra_89
+- @Kien#6166
 
 ## Comments on this Policy
 
